@@ -11,6 +11,6 @@ I am a Senior at Manipal University Jaipur pursuing Computer Science Engineering
 - ⚡ Quote:  👑 Keep Calm and pick your battles.
 - 📫 How to reach me:
 
-|[<img src="http://www.pngall.com/wp-content/uploads/4/World-Wide-Web-Transparent.png" alt="website logo" width="24">](https://devanshumodi.live/){:target="_blank"} | [<img src="https://github.com/Amchuz/Amchuz/blob/master/linkedin.jpeg" alt="linkedin logo" width="24">](https://www.linkedin.com/in/devanshu-modi-4a9a96160/){:target="_blank"} |  [<img src="https://github.com/Amchuz/Amchuz/blob/master/gmail.jpeg" alt="gmail logo" width="24">](mailto://devmodi154@gmail.com){:target="_blank"}
+|[<img src="http://www.pngall.com/wp-content/uploads/4/World-Wide-Web-Transparent.png" alt="website logo" width="24">](https://devanshumodi.live/) | [<img src="https://github.com/Amchuz/Amchuz/blob/master/linkedin.jpeg" alt="linkedin logo" width="24">](https://www.linkedin.com/in/devanshu-modi-4a9a96160/) |  [<img src="https://github.com/Amchuz/Amchuz/blob/master/gmail.jpeg" alt="gmail logo" width="24">](mailto://devmodi154@gmail.com)
 |---|---|---|
 ----
