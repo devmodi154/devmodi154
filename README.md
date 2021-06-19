@@ -9,6 +9,6 @@ I am a Backend Engineer Intern at Grab and pursuing Computer Science Engineering
 - Looking to collaborate on Web Development and Data Science Projects
 - How to reach me:
 
-|[<img src="http://www.pngall.com/wp-content/uploads/4/World-Wide-Web-Transparent.png" alt="website logo" width="24">](https://devanshumodi.live/) | [<img src="https://github.com/Amchuz/Amchuz/blob/master/linkedin.jpeg" alt="linkedin logo" width="24">](https://www.linkedin.com/in/devanshu-modi-4a9a96160/) |  [<img src="https://github.com/Amchuz/Amchuz/blob/master/gmail.jpeg" alt="gmail logo" width="24">](mailto://devmodi154@gmail.com)
+|[<img src="http://www.pngall.com/wp-content/uploads/4/World-Wide-Web-Transparent.png" alt="website logo" width="24">](https://www.devanshumodi.tech/) | [<img src="https://github.com/Amchuz/Amchuz/blob/master/linkedin.jpeg" alt="linkedin logo" width="24">](https://www.linkedin.com/in/devanshu-modi-4a9a96160/) |  [<img src="https://github.com/Amchuz/Amchuz/blob/master/gmail.jpeg" alt="gmail logo" width="24">](mailto://devmodi154@gmail.com)
 |---|---|---|
 ----
