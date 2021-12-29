@@ -2,7 +2,7 @@
 
 :heart: Programming | :black_heart: Cricket | :blue_heart: Movies
 
-I am a Backend Engineer at Grab and pursuing Computer Science Engineering as a Senior at Manipal University Jaipur. I like learning about softwares and developing 'em to solve problems. 
+I am a Software Engineer at Grab and pursuing Computer Science Engineering as a Senior at Manipal University Jaipur. I like learning about softwares and developing 'em to solve problems. 
 
 - Working on Problem Solving skills and learning React by building a Burger Ordering web app.
 - Learning Full Stack Web development | App Development | Data Science 
