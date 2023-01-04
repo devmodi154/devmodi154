@@ -2,7 +2,7 @@
 
 :heart: Programming | :black_heart: Cricket | :blue_heart: Movies
 
-I am a Software Engineer at Grab. I like learning about softwares and developing 'em to solve problems. 
+I am a Software Engineer at Nektar.ai. I like learning about softwares and developing 'em to solve problems. 
 
 - Working on Problem Solving skills and learning React by building new web apps.
 - Learning Full Stack Web development | App Development | Data Science 
